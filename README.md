@@ -1,5 +1,5 @@
 # CODTECH IT SOLUTIONS - INTERNSHIP 
-##TASK 1: Weather Analytics Dashboard 🌦️
+## TASK 1: Weather Analytics Dashboard 🌦️
 
 ### **Project Overview**
 This project was developed as part of the CODTECH IT SOLUTIONS Internship. The goal was to build a Python-based tool that fetches real-time weather data from a public API and creates a comprehensive visualization dashboard.
