@@ -45,14 +45,6 @@ Based on the generated dashboard for **Nellore**, the following observations wer
 
 ---
 
-**Intern Information:**
-*   **Name:** M.Sumedha
-*   **ID:** CTIS8362
-*   **Domain:** Python Programming
-*   **Batch:** 15 April 2026 - 10 June 2026
-
-*   ---
-
 ## **Task 2: Automated Report Generation 📊**
 
 ### **Project Overview**
